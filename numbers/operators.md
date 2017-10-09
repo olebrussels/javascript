@@ -2,7 +2,7 @@
 
 You can apply mathematic operations to numbers using some basic operators like:
 
-* **Addition**: ```c = a + b```
+* **Addition**: ```c = a + b + c```
 * **Subtraction**: ```c = a - b```
 * **Multiplication**: ```c = a * b```
 * **Division**: ```c = a / b```

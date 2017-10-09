@@ -21,16 +21,13 @@ it will be ignored by the interpreter
 var a = "this is a variable defined in a statement";
 ```
 
-
 ---
 
 Mark the editor's contents as a comment
 
 ```js
-
 Mark me as a comment
 or I'll throw an error
-
 ```
 
 ```js
@@ -45,3 +42,6 @@ assert(true);
 ```
 
 ---
+
+
+
